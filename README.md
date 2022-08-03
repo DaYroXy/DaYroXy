@@ -1,8 +1,11 @@
 <h1 align="center">Hi, </h1>
 <h3 align="center">A passionate full-stack developer and cyber-security expert</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayroxy&label=Profile%20views&color=0e75b6&style=flat" alt="dayroxy" /> </p>
+<img align="right" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761144b414110336d1eaf07e047e426b898e3e25b0df&rid=giphy.gif&ct=g">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🔭 I’m currently working on **Valuta**
 
