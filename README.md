@@ -1,4 +1,4 @@
-<h1 align="center">Hi, </h1>
+<h1 align="left">DaYroXy</h1>
 <h3 align="center">A passionate full-stack developer and cyber-security expert</h3>
 
 
