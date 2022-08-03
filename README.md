@@ -27,7 +27,7 @@
 </p>
 
 
-  <img align="left" style="width:44%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayroxy&show_icons=true&locale=en&layout=compact"              alt="dayroxy"/>
+  <img align="left" style="width:43%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayroxy&show_icons=true&locale=en&layout=compact"              alt="dayroxy"/>
   <img align="right" style="width:52%" src="https://github-readme-stats.vercel.app/api?username=dayroxy&show_icons=true&locale=en" alt="dayroxy" />
 
 
