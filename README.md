@@ -11,7 +11,8 @@
 
 - 🌱 I’m currently learning **Kernel Exploitation**
 
-- 💬 Ask me about **Web-Development, App-Development, Mobile-Development, Cyber-Security**
+- 💬 Ask me about **Web-Development, App-Development,
+- Mobile-Development, Cyber-Security**
 
 - 📫 How to reach me **dayroxy@venux.pro**
 
