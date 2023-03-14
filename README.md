@@ -7,11 +7,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🔭 I’m currently working on **Valuta**
+- 🔭 I’m currently working on **Binance Auto-Trader**
 
-- 🌱 I’m currently learning **React, Vue**
+- 🌱 I’m currently learning **Kernel Exploitation**
 
-- 💬 Ask me about **NodeJs, Web-Developement**
+- 💬 Ask me about **Web-Development, App-Development, Mobile-Development, Cyber-Security**
 
 - 📫 How to reach me **dayroxy@venux.pro**
 
